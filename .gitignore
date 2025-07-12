@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+study_langchain/__init__.py
+*.ppt
